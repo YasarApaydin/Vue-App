@@ -1,0 +1,416 @@
+{
+  "movies": [
+    {
+      "name": "X-Men",
+      "slug": "xmen",
+      "image": "movie1.jpg",
+      "id": 1,
+      "description": "In a world where mutants exist and are discriminated against, two groups form for an inevitable clash: the supremacist Brotherhood, and the pacifist X-Men.",
+      "time": "1h 44m",
+      "year": "2000",
+      "score": "7.3",
+      "point":"3",
+      "comments": [
+        "A classic in the sci-fi genre, but could have used a better script.",
+        "Great special effects for its time, but the plot feels dated.",
+        "The characters and their relationships make this a memorable film."
+      ],	  "cast": [
+        {
+          "name": "Hugh Jackman",
+          "slug": "Hugh_Jackman",
+          "image": "Hugh_Jackman.jpg",
+          "character": "Wolverine",
+		  "birthdate": "October 12, 1968",
+		  "height": "1.88m",
+		  "bio":
+            "Hugh Michael Jackman is an Australian actor, singer, multi-instrumentalist, dancer and producer. Jackman has won international recognition for his roles in major films, notably as superhero, period, and romance characters. He is best known for his long-running role as Wolverine in the X-Men film series, as well as for his lead roles in the romantic-comedy fantasy Kate & Leopold (2001), the action-horror film Van Helsing (2004), the drama The Prestige and The Fountain (2006), the epic historical romantic drama Australia (2008), the film version of Les Misérables (2012), and the thriller Prisoners (2013). His work in Les Misérables earned him his first Academy Award nomination for Best Actor and his first Golden Globe Award for Best Actor - Motion Picture Musical or Comedy in 2013. In Broadway theatre, Jackman won a Tony Award for his role in The Boy from Oz. A four-time host of the Tony Awards themselves, he won an Emmy Award for one of these appearances. Jackman also hosted the 81st Academy Awards on 22 February 2009."
+        }, {
+          "name": "Patrick Stewart",
+          "slug": "Patrick_Stewart",
+          "image": "Patrick_Stewart.jpg",
+          "character": "Xavier",
+		  "birthdate": "July 13, 1940",
+		  "height": "1.78m",
+		  "bio":
+            "Sir Patrick Stewart was born in Mirfield, Yorkshire, England, to Gladys (Barrowclough), a textile worker and weaver, and Alfred Stewart, who was in the army. He was a member of various local drama groups from about age 12. He left school at age 15 to work as a junior reporter on a local paper; he quit when his editor told him he was spending too much time at the theatre and not enough working. Stewart spent a year as a furniture salesman, saving cash to attend drama school. He was accepted by Bristol Old Vic Theatre School in 1957. He made his professional debut in 1959 in the repertory theatre in Lincoln; he worked at the Manchester Library Theatre and a tour around the world with the Old Vic Company followed in the early 1960s. Stewart joined the Royal Shakespeare Company in 1966, to begin his 27-year association. Following a spell with the Royal National Theatre in the mid 1980s, he went to Los Angeles, California to star on Star Trek: The Next Generation (1987), which ran from 1987-1994, playing the role of Captain Jean-Luc Picard. After the series ended, Stewart reprised his role for a string of successful Star Trek films: Uzay Yolu 7: Yeni Nesil (1994), Uzay Yolu 8: İlk Temas (1996), Uzay Yolu 9: İsyan (1998), and Uzay Yolu 10: Düşman (2002). Stewart continues to work on the stage and in various films. He was awarded Knight Bachelor of the Order of the British Empire in the 2010 Queen's New Year's Honours List for his services to drama."
+        },
+		{
+          "name": "Ian McKellen",
+		  "slug": "Ian_McKellen",
+          "image": "Ian_McKellen.jpg",
+          "character": "Magneto",
+		  "birthdate": "May 25, 1939",
+		  "height": "1.80m",
+		  "bio":
+            "Widely regarded as one of the greatest stage and screen actors both in his native Great Britain and internationally, twice nominated for the Oscar and recipient of every major theatrical award in the UK and US, Ian Murray McKellen was born on May 25, 1939 in Burnley, Lancashire, England, to Margery Lois (Sutcliffe) and Denis Murray McKellen, a civil engineer and lay preacher. He is of Scottish, Northern Irish, and English descent. During his early childhood, his parents moved with Ian and his older sister, Jean, to the mill town of Wigan. It was in this small town that young Ian rode out World War II. He soon developed a fascination with acting and the theatre, which was encouraged by his parents. They would take him to plays, those by William Shakespeare, in particular. The amateur school productions fostered Ian's growing passion for theatre. When Ian was of age to begin attending school, he made sure to get roles in all of the productions. At Bolton School in particular, he developed his skills early on. Indeed, his first role in a Shakespearian play was at Bolton, as Malvolio in Twelfth Night. Ian soon began attending Stratford-upon-Avon theatre festivals, where he saw the greats perform: Laurence Olivier, Wendy Hiller, John Gielgud, Ralph Richardson and Paul Robeson. He continued his education in English Drama, but soon it fell by the wayside as he concentrated more and more on performing. He eventually obtained his Bachelor of Arts in 1961, and began his career in earnest. McKellen began working in theatre over the next few years. Very few people knew of Ian's homosexuality; he saw no reason to go public, nor had he told his family. They did not seem interested in the subject and so he saw no reason to bring it up. In 1988, Ian publicly came out of the closet on the BBC Radio 4 program, while discussing Margaret Thatcher's Section 28 legislation, which made the promotion of homosexuality as a family relationship by local authorities an offense. It was reason enough for McKellen to take a stand. He has been active in the gay rights movement ever since."
+        }
+        ]
+
+    },
+    {
+      "name": "Spider-Man 2",
+      "slug": "spiderman2",
+      "image": "movie2.jpg",
+      "id": 2,
+      "description": "Peter Parker is beset with troubles in his failing personal life as he battles a former brilliant scientist named Otto Octavius.",
+      "time": "2h 7m",
+      "year": "2004",
+      "score": "7.5",
+       "point":"4",
+       "comments": [
+        "Mind-bending movie that challenges the concept of reality.",
+        "The effects and storyline still hold up today. A masterpiece.",
+        "The philosophy behind the movie really makes you think about life and reality."
+      ],	  "cast": [
+        {
+          "name": "Tobey Maguire",
+          "slug": "Tobey_Maguire",
+          "image": "Tobey_Maguire.jpg",
+          "character": "Spider-Man",
+		  "birthdate": "June 27, 1975",
+		  "height": "1.73m",
+		  "bio":
+            "Tobias Vincent Maguire was born in Santa Monica, California. His parents were 18 and 20, and not yet married, when he was born. His mother, Wendy (Brown), did advertising, publicity, and acting in Hollywood for years as she coached and managed Tobey. His father, Vincent Maguire, was a cook and sometimes a construction worker. Tobey did not finish high school in order to pursue and focus on acting roles, but he did end up getting his GED. He did several commercials (he was a model dancer for Nordstrom by age six), and he had some roles on various TV shows before landing a starring role on the Fox comedy Great Scott! (1992). That role lasted nine weeks before the show was canceled. Fox-made series were not doing well in general at the time. He avoids drugs and alcohol, and his best friend is Leonardo DiCaprio. Tobey is a vegan and studies yoga. He now has two beautiful children with his ex-wife Jennifer Meyer Maguire. Their names are Ruby Sweetheart and Otis Tobias Maguire. Another little known fact is that his two half-brothers, Jopaul and Weston Epp, were the child actors who handed Tobey (Peter Parker) his mask after the train scene in Spider-Man 2."
+        },
+		{
+          "name": "Kirsten Dunst",
+		  "slug": "Kirsten_Dunst",
+          "image": "Kirsten_Dunst.jpg",
+          "character": "Mary Jane Watson",
+		  "birthdate": "April 30, 1982",
+		  "height": "1.66m",
+		  "bio":
+            "Kirsten Caroline Dunst is an American actress, who also holds German citizenship. She was born on April 30, 1982 in Point Pleasant, New Jersey, to parents Inez (née Rupprecht), who owned an art gallery, and Klaus Dunst, a medical services executive. She has a younger brother named Christian Dunst, born in 1987. Her father is German, from Hamburg, and her mother, who is American, is of German and Swedish descent. Her career began at the age of 3 when she started modeling and appearing in commercials. She made her feature film debut with an uncredited role at age 6 in the 'Oedipus Wrecks' segment of Woody Allen's 1989 film New York Üçlemesi (1989). She received her first film credit in Şenlik Ateşi (1990). Her family moved to Los Angeles in 1993, where her film career took off. In 1994, she made her breakthrough performance in Vampirle Görüşme (1994), alongside such stars as Brad Pitt and Tom Cruise. Her performance earned her a Golden Globe nomination, the MTV Award for Best Breakthrough Performance and the Saturn Award for Best Young Actress. In 1995, she was named one of People Magazine's 50 Most Beautiful People. Over the next few years, she made a string of hit movies including Küçük Kadınlar (1994), Jumanji (1995) and Küçük askerler (1998). In 2000, she received rave reviews for her role as Lux Lisbon in Sofia Coppola's independent film, Masumiyetin İntiharı (1999) and proved her status as a leading actress in the comedy hit, Gençlik ateşi (2000). She also graduated from Notre Dame High School in Los Angeles in June of that year. In 2002, she landed one of her best known roles as Peter Parker's love interest, Mary Jane Watson, in Örümcek Adam (2002). She continued her role in Örümcek Adam 2 (2004) and Örümcek Adam 3 (2007). She went on to land roles in such films as Sil Baştan (2004), the romantic comedy Wimbledon (2004), and in Cameron Crowe's Elizabethtown (2005). She also played the title character in Sofia Coppola's Marie-Antoinette (2006). Dunst won the Best Actress Award at the 2011 Cannes Film Festival for her performance as Justine in Lars von Trier's Melankoli (2011). In 2012, she appeared in Walter Salles' film adaptation of Yolda (2012) and the independent comedy Bekarlığa Veda (2012). She also has several films in production, including Ocak Ayının İki Yüzü (2014). Her charity work includes designing a necklace to raise funds for the Elizabeth Glaser Pediatric AIDS Foundation as well as supporting various cancer charities."
+        },
+        {
+          "name": "Alfred Molina",
+          "slug": "Alfred_Molina",
+          "image": "Alfred_Molina.jpg",
+          "character": "Dr. Otto Octavius",
+		  "birthdate": "May 24, 1953",
+		  "height": "1.89m",
+		  "bio":
+            "Alfred Molina was born in 1953 in London, England. His mother, Giovanna (Bonelli), was an Italian-born cook and cleaner, and his father, Esteban Molina, was a Spanish-born waiter and chauffeur. He studied at the Guildhall School of Music and Drama, London. His stage work includes two major Royal National Theatre productions, Tennessee Williams' The Night of the Iguana (as Shannon) and David Mamet's Speed the Plow (as Fox), plus a splendid performance in Yasmina Reza's Art (his Broadway debut), for which he received a Tony Award nomination in 1998. He made his film debut in Kutsal Hazine Avcıları (1981) and got a good part in Letter to Brezhnev (1985) (as a Soviet sailor who spends a night in Liverpool), but his movie breakthrough came two years later when he played--superbly--Kenneth Halliwell, the tragic lover of playwright Joe Orton, in Stephen Frears' Prick Up Your Ears (1987). He was also outstanding in Enchanted April (1991), The Perez Family (1995) (as a Cuban immigrant), Anna Karenina (1997) (as Levin) and Çikolata (2000) (as the narrow-minded mayor of a small French town circa 1950s, who tries to shut down a chocolate shop)."
+        }
+        ]
+
+    },
+    {
+      "name": "Spider-Man 3",
+      "slug": "spiderman3",
+      "image": "movie3.jpg",
+      "id": 3,
+      "description": "A strange black entity from another world bonds with Peter Parker and causes inner turmoil as he contends with new villains, temptations, and revenge.",
+      "time": "2h 19m",
+      "year": "2007",
+      "score": "6.3",
+       "point":"5",
+       "comments": [
+        "A brilliant psychological thriller with mind-bending concepts.",
+        "The movie leaves you thinking long after it's over.",
+        "The soundtrack and visuals are unforgettable."
+      ],	  "cast": [
+        {
+          "name": "Tobey Maguire",
+          "slug": "Tobey_Maguire",
+          "image": "Tobey_Maguire.jpg",
+          "character": "Spider-Man",
+		  "birthdate": "June 27, 1975",
+		  "height": "1.73m",
+		  "bio":
+            "Tobias Vincent Maguire was born in Santa Monica, California. His parents were 18 and 20, and not yet married, when he was born. His mother, Wendy (Brown), did advertising, publicity, and acting in Hollywood for years as she coached and managed Tobey. His father, Vincent Maguire, was a cook and sometimes a construction worker. Tobey did not finish high school in order to pursue and focus on acting roles, but he did end up getting his GED. He did several commercials (he was a model dancer for Nordstrom by age six), and he had some roles on various TV shows before landing a starring role on the Fox comedy Great Scott! (1992). That role lasted nine weeks before the show was canceled. Fox-made series were not doing well in general at the time. He avoids drugs and alcohol, and his best friend is Leonardo DiCaprio. Tobey is a vegan and studies yoga. He now has two beautiful children with his ex-wife Jennifer Meyer Maguire. Their names are Ruby Sweetheart and Otis Tobias Maguire. Another little known fact is that his two half-brothers, Jopaul and Weston Epp, were the child actors who handed Tobey (Peter Parker) his mask after the train scene in Spider-Man 2."
+        },
+		{
+          "name": "Kirsten Dunst",
+		  "slug": "Kirsten_Dunst",
+          "image": "Kirsten_Dunst.jpg",
+          "character": "Mary Jane Watson",
+		  "birthdate": "April 30, 1982",
+		  "height": "1.66m",
+		  "bio":
+            "Kirsten Caroline Dunst is an American actress, who also holds German citizenship. She was born on April 30, 1982 in Point Pleasant, New Jersey, to parents Inez (née Rupprecht), who owned an art gallery, and Klaus Dunst, a medical services executive. She has a younger brother named Christian Dunst, born in 1987. Her father is German, from Hamburg, and her mother, who is American, is of German and Swedish descent. Her career began at the age of 3 when she started modeling and appearing in commercials. She made her feature film debut with an uncredited role at age 6 in the 'Oedipus Wrecks' segment of Woody Allen's 1989 film New York Üçlemesi (1989). She received her first film credit in Şenlik Ateşi (1990). Her family moved to Los Angeles in 1993, where her film career took off. In 1994, she made her breakthrough performance in Vampirle Görüşme (1994), alongside such stars as Brad Pitt and Tom Cruise. Her performance earned her a Golden Globe nomination, the MTV Award for Best Breakthrough Performance and the Saturn Award for Best Young Actress. In 1995, she was named one of People Magazine's 50 Most Beautiful People. Over the next few years, she made a string of hit movies including Küçük Kadınlar (1994), Jumanji (1995) and Küçük askerler (1998). In 2000, she received rave reviews for her role as Lux Lisbon in Sofia Coppola's independent film, Masumiyetin İntiharı (1999) and proved her status as a leading actress in the comedy hit, Gençlik ateşi (2000). She also graduated from Notre Dame High School in Los Angeles in June of that year. In 2002, she landed one of her best known roles as Peter Parker's love interest, Mary Jane Watson, in Örümcek Adam (2002). She continued her role in Örümcek Adam 2 (2004) and Örümcek Adam 3 (2007). She went on to land roles in such films as Sil Baştan (2004), the romantic comedy Wimbledon (2004), and in Cameron Crowe's Elizabethtown (2005). She also played the title character in Sofia Coppola's Marie-Antoinette (2006). Dunst won the Best Actress Award at the 2011 Cannes Film Festival for her performance as Justine in Lars von Trier's Melankoli (2011). In 2012, she appeared in Walter Salles' film adaptation of Yolda (2012) and the independent comedy Bekarlığa Veda (2012). She also has several films in production, including Ocak Ayının İki Yüzü (2014). Her charity work includes designing a necklace to raise funds for the Elizabeth Glaser Pediatric AIDS Foundation as well as supporting various cancer charities."
+        },
+        {
+          "name": "Thomas Haden Church",
+          "slug": "Thomas_Haden_Church",
+          "image": "Thomas_Haden_Church.jpg",
+          "character": "Sandman",
+		  "birthdate": "June 17, 1960",
+		  "height": "1.81m",
+		  "bio":
+            "Thomas Haden Church was born Thomas Richard McMillen in Yolo, California, to Maxine (Sanders) and Carlos Richard McMillen, who was a U.S. marine and surveyor. He was raised in Texas. His mother remarried George Quesada, a widowed WWII veteran who served in Guam, in 1969. He adopted this surname Quesada. He changed it to Haden Church after nobody could pronounce Quesada. Church began his show business career in front of a microphone instead of a camera, first as a radio deejay and then as a voice-over announcer. After landing a role in the independent film, Stolen Moments, Church moved to Los Angeles to pursue his acting career."
+        }
+        ]
+
+    },
+    {
+      "name": "Valkyrıe",
+      "slug": "darkknight",
+      "image": "movie4.jpg",
+      "id": 4,
+      "description": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.",
+      "time": "2h 32m",
+      "year": "2008",
+      "score": "9.0",
+       "point":"4",
+       "comments": [
+        "Heath Ledger's portrayal of the Joker is iconic.",
+       
+        "The tension in this film is palpable, making it an unforgettable experience."
+      ],	  "cast": [
+        {
+          "name": "Ewan McGregor",
+          "slug": "ewan",
+          "image": "download2.jpg",
+          "character": "Obi-Wan Kenobi",
+		  "birthdate": "March 31, 1971",
+		  "height": "1.77m",
+		  "bio":
+            "Ewan Gordon McGregor was born on March 31, 1971 in Perth, Perthshire, Scotland, to Carol Diane (Lawson) and James Charles McGregor, both teachers. His uncle is actor Denis Lawson. He was raised in Crieff. At age 16, he left Morrison Academy to join the Perth Repertory Theatre. His parents encouraged him to leave school and pursue his acting goals rather than be unhappy. McGregor studied drama for a year at Kirkcaldly in Fife, then enrolled at London's Guildhall School of Music and Drama for a three-year course. He studied alongside Daniel Craig and Alistair McGowan, among others, and left right before graduating after snagging the role of Private Mick Hopper in Dennis Potter's six-part Channel 4 series Lipstick on Your Collar (1993). His first notable role was that of Alex Law in Shallow Grave (1994), directed by Danny Boyle, written by John Hodge and produced by Andrew Macdonald. This was followed by The Pillow Book (1995) and Trainspotting (1996), the latter of which brought him to the public's attention."
+        },
+		{
+          "name": "Natalie Portman",
+		  "slug": "natalie",
+          "image": "download1.jpg",
+          "character": "Queen Amidala",
+		  "birthdate": "June 9, 1981",
+		  "height": "1.60m",
+		  "bio":
+            "Ewan Gordon McGregor was born on March 31, 1971 in Perth, Perthshire, Scotland, to Carol Diane (Lawson) and James Charles McGregor, both teachers. His uncle is actor Denis Lawson. He was raised in Crieff. At age 16, he left Morrison Academy to join the Perth Repertory Theatre. His parents encouraged him to leave school and pursue his acting goals rather than be unhappy. McGregor studied drama for a year at Kirkcaldly in Fife, then enrolled at London's Guildhall School of Music and Drama for a three-year course. He studied alongside Daniel Craig and Alistair McGowan, among others, and left right before graduating after snagging the role of Private Mick Hopper in Dennis Potter's six-part Channel 4 series Lipstick on Your Collar (1993). His first notable role was that of Alex Law in Shallow Grave (1994), directed by Danny Boyle, written by John Hodge and produced by Andrew Macdonald. This was followed by The Pillow Book (1995) and Trainspotting (1996), the latter of which brought him to the public's attention."
+        }
+        ]
+
+    },
+    {
+      "name": "Gladıator",
+      "slug": "godfather",
+      "image": "movie5.jpg",
+      "id": 5,
+      "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+      "time": "2h 55m",
+      "year": "1972",
+      "score": "9.2",
+       "point":"2.5",
+       "comments": [
+        "A cinematic masterpiece with incredible storytelling."
+        
+      ],	  "cast": [
+        {
+          "name": "Ewan McGregor",
+          "slug": "ewan",
+          "image": "download2.jpg",
+          "character": "Obi-Wan Kenobi",
+		  "birthdate": "March 31, 1971",
+		  "height": "1.77m",
+		  "bio":
+            "Ewan Gordon McGregor was born on March 31, 1971 in Perth, Perthshire, Scotland, to Carol Diane (Lawson) and James Charles McGregor, both teachers. His uncle is actor Denis Lawson. He was raised in Crieff. At age 16, he left Morrison Academy to join the Perth Repertory Theatre. His parents encouraged him to leave school and pursue his acting goals rather than be unhappy. McGregor studied drama for a year at Kirkcaldly in Fife, then enrolled at London's Guildhall School of Music and Drama for a three-year course. He studied alongside Daniel Craig and Alistair McGowan, among others, and left right before graduating after snagging the role of Private Mick Hopper in Dennis Potter's six-part Channel 4 series Lipstick on Your Collar (1993). His first notable role was that of Alex Law in Shallow Grave (1994), directed by Danny Boyle, written by John Hodge and produced by Andrew Macdonald. This was followed by The Pillow Book (1995) and Trainspotting (1996), the latter of which brought him to the public's attention."
+        },
+		{
+          "name": "Natalie Portman",
+		  "slug": "natalie",
+          "image": "download1.jpg",
+          "character": "Queen Amidala",
+		  "birthdate": "June 9, 1981",
+		  "height": "1.60m",
+		  "bio":
+            "Ewan Gordon McGregor was born on March 31, 1971 in Perth, Perthshire, Scotland, to Carol Diane (Lawson) and James Charles McGregor, both teachers. His uncle is actor Denis Lawson. He was raised in Crieff. At age 16, he left Morrison Academy to join the Perth Repertory Theatre. His parents encouraged him to leave school and pursue his acting goals rather than be unhappy. McGregor studied drama for a year at Kirkcaldly in Fife, then enrolled at London's Guildhall School of Music and Drama for a three-year course. He studied alongside Daniel Craig and Alistair McGowan, among others, and left right before graduating after snagging the role of Private Mick Hopper in Dennis Potter's six-part Channel 4 series Lipstick on Your Collar (1993). His first notable role was that of Alex Law in Shallow Grave (1994), directed by Danny Boyle, written by John Hodge and produced by Andrew Macdonald. This was followed by The Pillow Book (1995) and Trainspotting (1996), the latter of which brought him to the public's attention."
+        }
+        ]
+
+
+    },
+    {
+      "name": "Buz Devri",
+      "slug": "fightclub",
+      "image": "movie6.jpg",
+      "id": 6,
+      "description": "An insomniac office worker and a soap salesman form an underground fight club.",
+      "time": "2h 19m",
+      "year": "1999",
+      "score": "8.8", 
+      "point":"4",
+       "comments": [
+        "A mind-blowing film that explores themes of identity and consumerism.",
+        "A dark and gritty movie with a twist you’ll never see coming.",
+        "The movie's message about modern society is still relevant today."
+      ],	  "cast": [
+        {
+          "name": "Ewan McGregor",
+          "slug": "ewan",
+          "image": "download2.jpg",
+          "character": "Obi-Wan Kenobi",
+		  "birthdate": "March 31, 1971",
+		  "height": "1.77m",
+		  "bio":
+            "Ewan Gordon McGregor was born on March 31, 1971 in Perth, Perthshire, Scotland, to Carol Diane (Lawson) and James Charles McGregor, both teachers. His uncle is actor Denis Lawson. He was raised in Crieff. At age 16, he left Morrison Academy to join the Perth Repertory Theatre. His parents encouraged him to leave school and pursue his acting goals rather than be unhappy. McGregor studied drama for a year at Kirkcaldly in Fife, then enrolled at London's Guildhall School of Music and Drama for a three-year course. He studied alongside Daniel Craig and Alistair McGowan, among others, and left right before graduating after snagging the role of Private Mick Hopper in Dennis Potter's six-part Channel 4 series Lipstick on Your Collar (1993). His first notable role was that of Alex Law in Shallow Grave (1994), directed by Danny Boyle, written by John Hodge and produced by Andrew Macdonald. This was followed by The Pillow Book (1995) and Trainspotting (1996), the latter of which brought him to the public's attention."
+        },
+		{
+          "name": "Natalie Portman",
+		  "slug": "natalie",
+          "image": "download1.jpg",
+          "character": "Queen Amidala",
+		  "birthdate": "June 9, 1981",
+		  "height": "1.60m",
+		  "bio":
+            "Ewan Gordon McGregor was born on March 31, 1971 in Perth, Perthshire, Scotland, to Carol Diane (Lawson) and James Charles McGregor, both teachers. His uncle is actor Denis Lawson. He was raised in Crieff. At age 16, he left Morrison Academy to join the Perth Repertory Theatre. His parents encouraged him to leave school and pursue his acting goals rather than be unhappy. McGregor studied drama for a year at Kirkcaldly in Fife, then enrolled at London's Guildhall School of Music and Drama for a three-year course. He studied alongside Daniel Craig and Alistair McGowan, among others, and left right before graduating after snagging the role of Private Mick Hopper in Dennis Potter's six-part Channel 4 series Lipstick on Your Collar (1993). His first notable role was that of Alex Law in Shallow Grave (1994), directed by Danny Boyle, written by John Hodge and produced by Andrew Macdonald. This was followed by The Pillow Book (1995) and Trainspotting (1996), the latter of which brought him to the public's attention."
+        }
+        ]
+
+   
+    },
+    {
+      "name": "Transformers",
+      "slug": "forrestgump",
+      "image": "movie7.jpg",
+      "id": 7,
+      "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Civil Rights Movement, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an extraordinary life.",
+      "time": "2h 22m",
+      "year": "1994",
+      "score": "8.8",
+       "point":"2",
+       "comments": [
+        "A heartwarming and inspiring story with incredible performances.",
+        "Forrest Gump is a timeless classic with unforgettable quotes.",
+        "A movie that shows how life can take unexpected turns and lead to greatness."
+      ],	  "cast": [
+        {
+          "name": "Ewan McGregor",
+          "slug": "ewan",
+          "image": "download2.jpg",
+          "character": "Obi-Wan Kenobi",
+		  "birthdate": "March 31, 1971",
+		  "height": "1.77m",
+		  "bio":
+            "Ewan Gordon McGregor was born on March 31, 1971 in Perth, Perthshire, Scotland, to Carol Diane (Lawson) and James Charles McGregor, both teachers. His uncle is actor Denis Lawson. He was raised in Crieff. At age 16, he left Morrison Academy to join the Perth Repertory Theatre. His parents encouraged him to leave school and pursue his acting goals rather than be unhappy. McGregor studied drama for a year at Kirkcaldly in Fife, then enrolled at London's Guildhall School of Music and Drama for a three-year course. He studied alongside Daniel Craig and Alistair McGowan, among others, and left right before graduating after snagging the role of Private Mick Hopper in Dennis Potter's six-part Channel 4 series Lipstick on Your Collar (1993). His first notable role was that of Alex Law in Shallow Grave (1994), directed by Danny Boyle, written by John Hodge and produced by Andrew Macdonald. This was followed by The Pillow Book (1995) and Trainspotting (1996), the latter of which brought him to the public's attention."
+        },
+		{
+          "name": "Natalie Portman",
+		  "slug": "natalie",
+          "image": "download1.jpg",
+          "character": "Queen Amidala",
+		  "birthdate": "June 9, 1981",
+		  "height": "1.60m",
+		  "bio":
+            "Ewan Gordon McGregor was born on March 31, 1971 in Perth, Perthshire, Scotland, to Carol Diane (Lawson) and James Charles McGregor, both teachers. His uncle is actor Denis Lawson. He was raised in Crieff. At age 16, he left Morrison Academy to join the Perth Repertory Theatre. His parents encouraged him to leave school and pursue his acting goals rather than be unhappy. McGregor studied drama for a year at Kirkcaldly in Fife, then enrolled at London's Guildhall School of Music and Drama for a three-year course. He studied alongside Daniel Craig and Alistair McGowan, among others, and left right before graduating after snagging the role of Private Mick Hopper in Dennis Potter's six-part Channel 4 series Lipstick on Your Collar (1993). His first notable role was that of Alex Law in Shallow Grave (1994), directed by Danny Boyle, written by John Hodge and produced by Andrew Macdonald. This was followed by The Pillow Book (1995) and Trainspotting (1996), the latter of which brought him to the public's attention."
+        }
+        ]
+
+
+    },
+    {
+      "name": "Magnet",
+      "slug": "titanic",
+      "image": "movie8.jpg",
+      "id": 8,
+      "description": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+      "time": "3h 14m",
+      "year": "1997",
+      "score": "7.8",
+       "point":"5",
+       "comments": [
+        "A beautiful love story set against the backdrop of a tragic event.",
+        "Titanic is both heartbreaking and visually stunning.",
+        "The chemistry between the leads makes the movie a must-see."
+      ],	  "cast": [
+        {
+          "name": "Ewan McGregor",
+          "slug": "ewan",
+          "image": "download2.jpg",
+          "character": "Obi-Wan Kenobi",
+		  "birthdate": "March 31, 1971",
+		  "height": "1.77m",
+		  "bio":
+            "Ewan Gordon McGregor was born on March 31, 1971 in Perth, Perthshire, Scotland, to Carol Diane (Lawson) and James Charles McGregor, both teachers. His uncle is actor Denis Lawson. He was raised in Crieff. At age 16, he left Morrison Academy to join the Perth Repertory Theatre. His parents encouraged him to leave school and pursue his acting goals rather than be unhappy. McGregor studied drama for a year at Kirkcaldly in Fife, then enrolled at London's Guildhall School of Music and Drama for a three-year course. He studied alongside Daniel Craig and Alistair McGowan, among others, and left right before graduating after snagging the role of Private Mick Hopper in Dennis Potter's six-part Channel 4 series Lipstick on Your Collar (1993). His first notable role was that of Alex Law in Shallow Grave (1994), directed by Danny Boyle, written by John Hodge and produced by Andrew Macdonald. This was followed by The Pillow Book (1995) and Trainspotting (1996), the latter of which brought him to the public's attention."
+        },
+		{
+          "name": "Natalie Portman",
+		  "slug": "natalie",
+          "image": "download1.jpg",
+          "character": "Queen Amidala",
+		  "birthdate": "June 9, 1981",
+		  "height": "1.60m",
+		  "bio":
+            "Ewan Gordon McGregor was born on March 31, 1971 in Perth, Perthshire, Scotland, to Carol Diane (Lawson) and James Charles McGregor, both teachers. His uncle is actor Denis Lawson. He was raised in Crieff. At age 16, he left Morrison Academy to join the Perth Repertory Theatre. His parents encouraged him to leave school and pursue his acting goals rather than be unhappy. McGregor studied drama for a year at Kirkcaldly in Fife, then enrolled at London's Guildhall School of Music and Drama for a three-year course. He studied alongside Daniel Craig and Alistair McGowan, among others, and left right before graduating after snagging the role of Private Mick Hopper in Dennis Potter's six-part Channel 4 series Lipstick on Your Collar (1993). His first notable role was that of Alex Law in Shallow Grave (1994), directed by Danny Boyle, written by John Hodge and produced by Andrew Macdonald. This was followed by The Pillow Book (1995) and Trainspotting (1996), the latter of which brought him to the public's attention."
+        }
+        ]
+
+    },
+    {
+      "name": "Kung-Fu Panda",
+      "slug": "avatar",
+      "image": "movie9.jpg",
+      "id": 9,
+      "description": "A paraplegic former Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following his orders and protecting the world he feels is his home.",
+      "time": "2h 42m",
+      "year": "2009",
+      "score": "7.8",
+       "point":"4",
+       "comments": [
+        "Visually groundbreaking, Avatar immerses you in an alien world.",
+        "A fantastic world-building experience, though the plot is somewhat predictable.",
+        "The use of 3D technology was revolutionary at the time of release."
+      ],	  "cast": [
+        {
+          "name": "Ewan McGregor",
+          "slug": "ewan",
+          "image": "download2.jpg",
+          "character": "Obi-Wan Kenobi",
+		  "birthdate": "March 31, 1971",
+		  "height": "1.77m",
+		  "bio":
+            "Ewan Gordon McGregor was born on March 31, 1971 in Perth, Perthshire, Scotland, to Carol Diane (Lawson) and James Charles McGregor, both teachers. His uncle is actor Denis Lawson. He was raised in Crieff. At age 16, he left Morrison Academy to join the Perth Repertory Theatre. His parents encouraged him to leave school and pursue his acting goals rather than be unhappy. McGregor studied drama for a year at Kirkcaldly in Fife, then enrolled at London's Guildhall School of Music and Drama for a three-year course. He studied alongside Daniel Craig and Alistair McGowan, among others, and left right before graduating after snagging the role of Private Mick Hopper in Dennis Potter's six-part Channel 4 series Lipstick on Your Collar (1993). His first notable role was that of Alex Law in Shallow Grave (1994), directed by Danny Boyle, written by John Hodge and produced by Andrew Macdonald. This was followed by The Pillow Book (1995) and Trainspotting (1996), the latter of which brought him to the public's attention."
+        },
+		{
+          "name": "Natalie Portman",
+		  "slug": "natalie",
+          "image": "download1.jpg",
+          "character": "Queen Amidala",
+		  "birthdate": "June 9, 1981",
+		  "height": "1.60m",
+		  "bio":
+            "Ewan Gordon McGregor was born on March 31, 1971 in Perth, Perthshire, Scotland, to Carol Diane (Lawson) and James Charles McGregor, both teachers. His uncle is actor Denis Lawson. He was raised in Crieff. At age 16, he left Morrison Academy to join the Perth Repertory Theatre. His parents encouraged him to leave school and pursue his acting goals rather than be unhappy. McGregor studied drama for a year at Kirkcaldly in Fife, then enrolled at London's Guildhall School of Music and Drama for a three-year course. He studied alongside Daniel Craig and Alistair McGowan, among others, and left right before graduating after snagging the role of Private Mick Hopper in Dennis Potter's six-part Channel 4 series Lipstick on Your Collar (1993). His first notable role was that of Alex Law in Shallow Grave (1994), directed by Danny Boyle, written by John Hodge and produced by Andrew Macdonald. This was followed by The Pillow Book (1995) and Trainspotting (1996), the latter of which brought him to the public's attention."
+        }
+        ]
+
+
+    },
+    {
+      "name": "Eagle Eye",
+      "slug": "shawshank",
+      "image": "movie10.jpg",
+      "id": 10,
+      "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "time": "2h 22m",
+      "year": "1994",
+      "score": "9.3",
+       "point":"1",
+       "comments": [
+        "One of the best movies of all time, a powerful story of hope and friendship.",
+        "Shawshank Redemption proves that true freedom is within.",
+        "The bond between the characters is beautifully portrayed, making this a film for the ages."
+      ],	  "cast": [
+        {
+          "name": "Ewan McGregor",
+          "slug": "ewan",
+          "image": "download2.jpg",
+          "character": "Obi-Wan Kenobi",
+		  "birthdate": "March 31, 1971",
+		  "height": "1.77m",
+		  "bio":
+            "Ewan Gordon McGregor was born on March 31, 1971 in Perth, Perthshire, Scotland, to Carol Diane (Lawson) and James Charles McGregor, both teachers. His uncle is actor Denis Lawson. He was raised in Crieff. At age 16, he left Morrison Academy to join the Perth Repertory Theatre. His parents encouraged him to leave school and pursue his acting goals rather than be unhappy. McGregor studied drama for a year at Kirkcaldly in Fife, then enrolled at London's Guildhall School of Music and Drama for a three-year course. He studied alongside Daniel Craig and Alistair McGowan, among others, and left right before graduating after snagging the role of Private Mick Hopper in Dennis Potter's six-part Channel 4 series Lipstick on Your Collar (1993). His first notable role was that of Alex Law in Shallow Grave (1994), directed by Danny Boyle, written by John Hodge and produced by Andrew Macdonald. This was followed by The Pillow Book (1995) and Trainspotting (1996), the latter of which brought him to the public's attention."
+        },
+		{
+          "name": "Natalie Portman",
+		  "slug": "natalie",
+          "image": "download1.jpg",
+          "character": "Queen Amidala",
+		  "birthdate": "June 9, 1981",
+		  "height": "1.60m",
+		  "bio":
+            "Ewan Gordon McGregor was born on March 31, 1971 in Perth, Perthshire, Scotland, to Carol Diane (Lawson) and James Charles McGregor, both teachers. His uncle is actor Denis Lawson. He was raised in Crieff. At age 16, he left Morrison Academy to join the Perth Repertory Theatre. His parents encouraged him to leave school and pursue his acting goals rather than be unhappy. McGregor studied drama for a year at Kirkcaldly in Fife, then enrolled at London's Guildhall School of Music and Drama for a three-year course. He studied alongside Daniel Craig and Alistair McGowan, among others, and left right before graduating after snagging the role of Private Mick Hopper in Dennis Potter's six-part Channel 4 series Lipstick on Your Collar (1993). His first notable role was that of Alex Law in Shallow Grave (1994), directed by Danny Boyle, written by John Hodge and produced by Andrew Macdonald. This was followed by The Pillow Book (1995) and Trainspotting (1996), the latter of which brought him to the public's attention."
+        }
+        ]
+
+    }
+  ]
+}
